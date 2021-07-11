@@ -1,2 +1,2 @@
 # Analog-Clock
-This is an clock created from pure JS
+This is an analog clock created from pure JS
